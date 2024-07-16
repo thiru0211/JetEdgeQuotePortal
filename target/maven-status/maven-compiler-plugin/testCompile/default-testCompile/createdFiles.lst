@@ -1,0 +1,16 @@
+runnerClass\JE_QP_8_WindTempRunner.class
+stepDefinition\JE_QP_4_Groups.class
+runnerClass\JE_QP_1_SignInRunner.class
+stepDefinition\JE_QP_8_WindTemp.class
+stepDefinition\JE_QP_2_Quote.class
+stepDefinition\JE_QP_6_QuoteReports.class
+runnerClass\JE_QP_3_PricingRunner.class
+stepDefinition\JE_QP_5_Masters.class
+stepDefinition\JE_QP_3_Pricing.class
+runnerClass\JE_QP_2_QuoteRunner.class
+runnerClass\JE_QP_6_QuoteReportsRunner.class
+stepDefinition\JE_QP_7_Reports.class
+stepDefinition\JE_QP_1_SignIn.class
+runnerClass\JE_QP_5_MastersRunner.class
+runnerClass\JE_QP_4_GroupsRunner.class
+runnerClass\JE_QP_7_ReportsRunner.class

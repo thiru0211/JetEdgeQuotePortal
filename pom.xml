@@ -43,17 +43,14 @@
                         <configuration>
                            <projectName>Sample</projectName>
                 <!-- output directory for the generated report -->
-                <outputDirectory>${project.build.directory}/cucumber-reports</outputDirectory>
+                <outputDirectory>${project.build.directory}/cucumber</outputDirectory>
                 <inputDirectory>${project.build.directory}/cucumber</inputDirectory>
                 <checkBuildResult>false</checkBuildResult>
                 <jsonFiles>
                     <!-- supports wildcard or name pattern -->
                     <param>**/*.json</param>
                 </jsonFiles>
-                <skippedFails>true</skippedFails>
-                <enableFlashCharts>true</enableFlashCharts>
                 <buildNumber>10.2.1</buildNumber>
-                <parallelTesting>false</parallelTesting>
                         </configuration>
                     </execution>
                 </executions>
